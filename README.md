@@ -70,9 +70,7 @@ A centralized dashboard that automatically gathers Jira ticket data to generate 
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jr-nunez-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-</p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=jr-nunez-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" /> <img height="170" src="https://streak-stats.demolab.com?user=jr-nunez-dev&theme=github-dark-blue&hide_border=true" /> </p>
 
 ---
 
