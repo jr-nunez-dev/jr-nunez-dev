@@ -31,8 +31,8 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
 <table>
   <tr>
     <td align="center" width="33%">
-      <b>Workflow Dashboard</b><br><br>
-      <img src="./assets/dashboard.png" width="100%" alt="Workflow Dashboard">
+      <b>Agent Swarm</b><br><br>
+      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Personal%20Ai%20Agent/AGENTS.png" width="100%" alt="Agent Swarm">
     </td>
     <td align="center" width="33%">
       <b>AI Agent</b><br><br>
