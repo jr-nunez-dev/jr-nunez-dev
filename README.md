@@ -26,7 +26,7 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
 <br></br>
 
 ---
-### ✨ Highlight Workflows
+### 🚀 Highlight Workflows
 
 <table>
   <tr>
@@ -62,7 +62,7 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
 
 
 ---
-### 🏆 GitHub Stats
+### 🍕 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jr-nunez-dev&theme=tokyonight&hide_border=true" />
