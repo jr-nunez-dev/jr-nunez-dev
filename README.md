@@ -24,7 +24,41 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
 <img align="left" alt="PRTG" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Prtg-network-monitor-logo.svg/1280px-Prtg-network-monitor-logo.svg.png?_=20180920112839" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <br></br>
+
 ---
+### Highlight Workflows
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Workflow Dashboard</b><br><br>
+      <img src="./assets/dashboard.png" width="100%" alt="Workflow Dashboard">
+    </td>
+    <td align="center" width="33%">
+      <b>AI Agent</b><br><br>
+      <img src="./assets/agent.png" width="100%" alt="AI Agent">
+    </td>
+    <td align="center" width="33%">
+      <b>Analytics</b><br><br>
+      <img src="./assets/analytics.png" width="100%" alt="Analytics">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <b>Automation Flow</b><br><br>
+      <img src="./assets/workflow.png" width="100%" alt="Automation Flow">
+    </td>
+    <td align="center">
+      <b>Notifications</b><br><br>
+      <img src="./assets/notifications.png" width="100%" alt="Notifications">
+    </td>
+    <td align="center">
+      <b>Reports</b><br><br>
+      <img src="./assets/reports.png" width="100%" alt="Reports">
+    </td>
+  </tr>
+</table>
 
           
 
