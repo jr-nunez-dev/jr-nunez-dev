@@ -11,6 +11,9 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right:10px;" />  
 <img align="left" alt="N8N" width="30px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/n8n.webp" style="padding-right:10px;" />
 <img align="left" alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Activepieces" width="30px" src="https://dashboardicons.com/icons/activepieces" style="padding-right:10px;" />
+<img align="left" alt="Google Cloud" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />
+          
           
 
 
