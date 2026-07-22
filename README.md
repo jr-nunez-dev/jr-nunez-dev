@@ -1,11 +1,11 @@
-# 👨‍💻 Johnrex Chris Gerard Nuñez
+# 👾 Johnrex Chris Gerard Nuñez
 
 **`NOC Engineer | N8N Automation Developer`**
 
 Driven by a passion for seamless operations, I’ve built my career as a NOC Engineer providing essential L1 hands-on support for infrastructure teams by continuously monitoring critical systems and network devices. To elevate operational efficiency, I leverage n8n to build custom automation pipelines that eliminate the repetitive alerts and manual tasks burdening daily workflows. I bring a unique combination of proactive real-time monitoring and workflow automation to help your organization minimize downtime, optimize incident response, and keep critical operations running smoothly.
 
 ---
-### 🛠️ Languages & Tools
+### 🤖 Languages & Tools
 
 <img align="left" alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -23,6 +23,9 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
 <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PRTG" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Prtg-network-monitor-logo.svg/1280px-Prtg-network-monitor-logo.svg.png?_=20180920112839" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+---
+
           
 
           
