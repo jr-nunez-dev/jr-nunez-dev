@@ -109,9 +109,6 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
 ### 🤖 AI Automation
 - Building enterprise-grade **n8n** workflows
 - Creating multi-agent AI systems
-- Developing offline workflow scrubbers
-
-### 💼 Professional
 - Expanding my automation portfolio
 - Learning advanced MCP integrations
 - Exploring AI orchestration patterns
