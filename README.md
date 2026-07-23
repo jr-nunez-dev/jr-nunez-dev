@@ -47,8 +47,8 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
 
   <tr>
     <td width="33%" align="center" valign="top">
-      <b>Enterprise Lead Enrichment</b><br><br>
-      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-sandbox/blob/main/Enterprise%20Lead%20Enrichment%20%26%20Resilient%20CRM%20Sync%20Pipeline/Enterprise%20Lead%20Enrichment%20%26%20Sync.png" height="170" alt=Enterprise Lead Enrichment">
+      <b>Omnichannel Order Enrichment</b><br><br>
+      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-sandbox/blob/main/Automated%20Omnichannel%20Order%20Enrichment%20%26%20ERP%20Sync%20Pipeline/Automated%20Omnichannel%20Order%20Enrichment%20%26%20ERP%20Sync%20Pipeline(Sandbox).json.png" height="170" alt=Omnichannel Order Enrichment">
     </td>
     <td width="33%" align="center" valign="top">
       <b>Cert Bot</b><br><br>
