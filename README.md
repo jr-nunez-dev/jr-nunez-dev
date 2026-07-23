@@ -25,6 +25,7 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <br></br>
 
+
 ---
 ### 🚀 Highlight Workflows
 
@@ -62,12 +63,37 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
 
 
 ---
-### 🍕 GitHub Stats
+
+### ⛵ John's Journey
+
+```text
+2025 ─────── Present
+             │
+             ├── 🏢 Universal Access and Systems Solutions
+             │   ├─ NOC Engineer
+             │   ├─ Built enterprise n8n workflows
+             │   ├─ L1 Infrastracture SUpport
+             │   └─ Developed AI agents & integrations
+             │
+2024 ─────── 2025
+             │
+             ├── 🏢 Integrated Computer Systems
+             │   ├─ Project Engineer
+             │   ├─ Technical Support Engineer
+             │   ├─ L2 Support
+             │   └─ Asset handling and inventory.
+             │
+2024 ─────── 2024
+             │
+             ├── 🏢 Concentrix PH
+             │   ├─ IT Intern
+             │   ├─ L1 Support
+             │   └─ Customer Services
+```
+
+---
+### ⭐ GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jr-nunez-dev&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  < img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jr-nunez-dev&theme=tokyonight" />
-</p>          
+</p>   
