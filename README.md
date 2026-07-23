@@ -72,7 +72,7 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
              ├── 🏢 Universal Access and Systems Solutions
              │   ├─ NOC Engineer
              │   ├─ Built enterprise n8n workflows
-             │   ├─ L1 Infrastracture SUpport
+             │   ├─ L1 Infrastracture Support
              │   └─ Developed AI agents & integrations
              │
 2024 ─────── 2025
