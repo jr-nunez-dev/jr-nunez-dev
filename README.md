@@ -5,7 +5,7 @@
 Driven by a passion for seamless operations, I’ve built my career as a NOC Engineer providing essential L1 hands-on support for infrastructure teams by continuously monitoring critical systems and network devices. To elevate operational efficiency, I leverage n8n to build custom automation pipelines that eliminate the repetitive alerts and manual tasks burdening daily workflows. I bring a unique combination of proactive real-time monitoring and workflow automation to help your organization minimize downtime, optimize incident response, and keep critical operations running smoothly.
 
 ---
-## 🤖 Languages & Tools
+### 🤖 Languages & Tools
 
 <img align="left" alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -27,7 +27,7 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
 
 
 ---
-## 🚀 Highlight Workflows
+### 🚀 Highlight Workflows
 
 <table>
   <tr>
@@ -64,7 +64,7 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
 
 ---
 
-## ⛵ John's Journey
+### ⛵ John's Journey
 
 ```text
 2025 ─────── Present
@@ -92,34 +92,34 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
 ```
 
 ---
-## ⭐ GitHub Stats
+### ⭐ GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jr-nunez-dev&theme=tokyonight&hide_border=true" />
 </p>   
 
 ---
-## 🚧 Currently Working On
+### 🚧 Currently Working On
 
 <details>
 <summary><b>List of Interests</b></summary>
 
 <br>
 
-### 🤖 AI Automation
+#### 🤖 AI Automation
 - Building enterprise-grade **n8n** workflows
 - Creating multi-agent AI systems
 - Expanding my automation portfolio
 - Learning advanced MCP integrations
 - Exploring AI orchestration patterns
 
-### 📚 Currently Learning
+#### 📚 Currently Learning
 - JavaScript
 - Python
 - Linux
 - Activepieces
 
-### 🎯 2026 Goals
+#### 🎯 2026 Goals
 - 🚀 Publish 50+ automation workflows
 - 🎓 Earn AI certifications
 
