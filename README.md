@@ -33,30 +33,30 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
   <tr>
     <td align="center" width="33%">
       <b>Agent Swarm</b><br><br>
-      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Personal%20Ai%20Agent/AGENTS.png" width="100%" alt="Agent Swarm">
+      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Personal%20Ai%20Agent/AGENTS.png" height="170" alt="Agent Swarm">
     </td>
     <td align="center" width="33%">
       <b>BANT Scorer Agent</b><br><br>
-      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Inbound%20Lead%20Qualifier%20%26%20BANT%20Scorer%20Agent/Inbound%20Lead%20Qualifier%20%26%20BANT%20Scorer%20Agent.png" width="100%" alt="BANT Scorer Agent">
+      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Inbound%20Lead%20Qualifier%20%26%20BANT%20Scorer%20Agent/Inbound%20Lead%20Qualifier%20%26%20BANT%20Scorer%20Agent.png" height="170" alt="BANT Scorer Agent">
     </td>
     <td align="center" width="33%">
       <b>Triage Agent</b><br><br>
-      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/AI%20Customer%20Support%20Triage%20%26%20Auto-Reply%20Agent/AI%20Customer%20Support%20Triage%20%26%20Auto-Reply%20Agent.png" width="100%" alt="Triage Agent">
+      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/AI%20Customer%20Support%20Triage%20%26%20Auto-Reply%20Agent/AI%20Customer%20Support%20Triage%20%26%20Auto-Reply%20Agent.png" height="170" alt="Triage Agent">
     </td>
   </tr>
 
   <tr>
     <td align="center">
       <b>Enterprise Lead Enrichment</b><br><br>
-      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-sandbox/blob/main/Enterprise%20Lead%20Enrichment%20%26%20Resilient%20CRM%20Sync%20Pipeline/Enterprise%20Lead%20Enrichment%20%26%20Sync.png" width="100%" alt=Enterprise Lead Enrichment">
+      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-sandbox/blob/main/Enterprise%20Lead%20Enrichment%20%26%20Resilient%20CRM%20Sync%20Pipeline/Enterprise%20Lead%20Enrichment%20%26%20Sync.png" height="170" alt=Enterprise Lead Enrichment">
     </td>
     <td align="center">
       <b>Cert Bot</b><br><br>
-      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-sandbox/blob/main/Hackathon%20Finisher%20Certificate%20Bot/Hackathon%20Finisher%20Certificate%20Bot.png" width="100%" alt="Cert Bot">
+      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-sandbox/blob/main/Hackathon%20Finisher%20Certificate%20Bot/Hackathon%20Finisher%20Certificate%20Bot.png" height="170" alt="Cert Bot">
     </td>
     <td align="center">
       <b>Auto Ticket</b><br><br>
-      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-realWorld/blob/main/BC%20Intermittent%20%26%20Slow%20Connection%20Issue%20Automation/BC%20Intermittent%20%26%20Slow%20Connection%20Issue%20Automation.png" width="100%" alt="Auto Ticket">
+      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-realWorld/blob/main/BC%20Intermittent%20%26%20Slow%20Connection%20Issue%20Automation/BC%20Intermittent%20%26%20Slow%20Connection%20Issue%20Automation.png" height="170" alt="Auto Ticket">
     </td>
   </tr>
 </table>
