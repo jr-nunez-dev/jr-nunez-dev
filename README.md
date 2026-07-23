@@ -102,7 +102,7 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
 ## 🚧 Currently Working On
 
 <details>
-<summary><b>List of Interests</b> 👇</summary>
+<summary><b>List of Interests</b></summary>
 
 <br>
 
