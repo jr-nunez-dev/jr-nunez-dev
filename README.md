@@ -81,7 +81,7 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
              │   ├─ Project Engineer
              │   ├─ Technical Support Engineer
              │   ├─ L2 Support
-             │   └─ Asset handling and inventory.
+             │   └─ Asset handling and inventory
              │
 2024 ─────── 2024
              │
