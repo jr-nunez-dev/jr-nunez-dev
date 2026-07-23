@@ -67,10 +67,7 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jr-nunez-dev&theme=tokyonight&hide_border=true" />
 </p>
-          
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jr-nunez-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jr-nunez-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
-          
+<p align="center">
+  < img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jr-nunez-dev&theme=tokyonight" />
+</p>          
