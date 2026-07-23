@@ -97,6 +97,7 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jr-nunez-dev&theme=tokyonight&hide_border=true" />
 </p>   
+[![Johnrex's GitHub stats](https://github-stats-extended.vercel.app/api?username=jr-nunez-dev)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
