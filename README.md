@@ -69,6 +69,7 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
 </p>
           
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jr-nunez-dev&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://streak-stats.demolab.com?user=jr-nunez-dev&theme=tokyonight&hide_border=true"/>
+</p>
 </p>
           
