@@ -23,7 +23,7 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
 <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PRTG" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Prtg-network-monitor-logo.svg/1280px-Prtg-network-monitor-logo.svg.png?_=20180920112839" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<br></br>
+<br>
 
 
 ---
@@ -52,7 +52,7 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
     </td>
     <td width="33%" align="center" valign="top">
       <b>Cert Bot</b><br><br>
-      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-sandbox/blob/main/Hackathon%20Finisher%20Certificate%20Bot/Hackathon%20Finisher%20Certificate%20Bot.png" height="170" alt="Cert Bot">
+      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-sandbox/blob/main/Events%20%26%20Community/Hackathon%20Finisher%20Certificate%20Bot/Hackathon%20Finisher%20Certificate%20Bot.png" height="170" alt="Cert Bot">
     </td>
     <td width="33%" align="center" valign="top">
       <b>Auto Ticket</b><br><br>
