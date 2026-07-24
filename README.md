@@ -33,15 +33,15 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
   <tr>
     <td width="33%" align="center" valign="top">
       <b>Agent Swarm</b><br><br>
-      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Personal%20Ai%20Agent/AGENTS.png" height="170" alt="Agent Swarm">
+      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Advance%20Ai%20Architectures/Multi-Agent%20Systems/Personal%20Ai%20Agent/AGENTS.png" height="170" alt="Agent Swarm">
     </td>
     <td width="33%" align="center" valign="top">
       <b>BANT Scorer Agent</b><br><br>
-      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Inbound%20Lead%20Qualifier%20%26%20BANT%20Scorer%20Agent/Inbound%20Lead%20Qualifier%20%26%20BANT%20Scorer%20Agent.png" height="170" alt="BANT Scorer Agent">
+      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Business%20Ai%20Agents/Sales%20%26%20CRM/Inbound%20Lead%20Qualifier%20%26%20BANT%20Scorer%20Agent/Inbound%20Lead%20Qualifier%20%26%20BANT%20Scorer%20Agent.png" height="170" alt="BANT Scorer Agent">
     </td>
     <td width="33%" align="center" valign="top">
       <b>Triage Agent</b><br><br>
-      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/AI%20Customer%20Support%20Triage%20%26%20Auto-Reply%20Agent/AI%20Customer%20Support%20Triage%20%26%20Auto-Reply%20Agent.png" height="170" alt="Triage Agent">
+      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Business%20Ai%20Agents/Costumer%20Support/AI%20Customer%20Support%20Triage%20%26%20Auto-Reply%20Agent/AI%20Customer%20Support%20Triage%20%26%20Auto-Reply%20Agent.png" height="170" alt="Triage Agent">
     </td>
   </tr>
 
