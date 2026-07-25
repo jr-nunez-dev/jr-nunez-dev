@@ -55,8 +55,8 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
       <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-sandbox/blob/main/Events%20%26%20Community/Hackathon%20Finisher%20Certificate%20Bot/Hackathon%20Finisher%20Certificate%20Bot.png" height="170" alt="Cert Bot">
     </td>
     <td width="33%" align="center" valign="top">
-      <b>Auto Ticket</b><br><br>
-      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-realWorld/blob/main/BC%20Intermittent%20%26%20Slow%20Connection%20Issue%20Automation/BC%20Intermittent%20%26%20Slow%20Connection%20Issue%20Automation.png" height="170" alt="Auto Ticket">
+      <b>Infra Incident Pipeline</b><br><br>
+      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-realWorld/blob/main/Infrastructure%20Incident%20Management%20Pipeline/realWorld-Infra.png" height="170" alt="Infra Incident Pipeline">
     </td>
   </tr>
 </table>
