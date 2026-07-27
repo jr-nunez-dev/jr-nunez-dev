@@ -15,7 +15,6 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
 <img align="left" alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Activepieces" width="30px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/activepieces.svg" style="padding-right:10px;" />
 <img align="left" alt="Google Cloud" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Google Workspace" width="30px" src="https://static.wikia.nocookie.net/logopedia/images/c/c1/Google_Apps_for_Work_icon.png/revision/latest/scale-to-width-down/250?cb=20241121044151" style="padding-right:10px;" />
 <img align="left" alt="Airtable" width="30px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/airtable-72how81antkvqw63bfjdw.png/airtable-n3ug85b9mrgaljvqjlx50d.png?_a=DATAiZAAZAA0" style="padding-right:10px;" />
 <img align="left" alt="SupaBase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="padding-right:10px;" />
