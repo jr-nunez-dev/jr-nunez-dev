@@ -44,11 +44,11 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
   <tr>
     <td width="33%" align="center" valign="top">
       <b>Sentinel</b><br><br>
-      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-sandbox/blob/main/Commerce%20%26%20operations/Automated%20Omnichannel%20Order%20Enrichment%20%26%20ERP%20Sync%20Pipeline/Automated%20Omnichannel%20Order%20Enrichment%20%26%20ERP%20Sync%20Pipeline.png" height="170" alt=Omnichannel Order Enrichment">
+      <img src="https://github.com/jr-nunez-dev/sentinel-noc/blob/main/src/assets/Sentinel.png?raw=true" height="170" alt="Sentinel">
     </td>
     <td width="33%" align="center" valign="top">
-      <b>Cert Bot</b><br><br>
-      <img src="" height="170" alt="Cert Bot">
+      <b>Testarosa</b><br><br>
+      <img src="" height="170" alt="Testarosa">
     </td>
     <td width="33%" align="center" valign="top">
       <b>Infra Incident Pipeline</b><br><br>
