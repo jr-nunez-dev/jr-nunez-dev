@@ -48,7 +48,7 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
     </td>
     <td width="33%" align="center" valign="top">
       <b>Testarosa</b><br><br>
-      <img src="https://github.com/jr-nunez-dev/testarosa/blob/main/src/assets/Testarosa.png?raw=true" height="170" alt="Testarosa">
+      <img src="https://github.com/jr-nunez-dev/testarosa/blob/main/public/Testarosa.png?raw=true" height="170" alt="Testarosa">
     </td>
     <td width="33%" align="center" valign="top">
       <b>Infra Incident Pipeline</b><br><br>
