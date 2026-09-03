@@ -15,6 +15,7 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
 <img align="left" alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Google Cloud" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Airtable" width="30px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/airtable-72how81antkvqw63bfjdw.png/airtable-n3ug85b9mrgaljvqjlx50d.png?_a=DATAiZAAZAA0" style="padding-right:10px;" />
+<img align="left" alt="Supabase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PRTG" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Prtg-network-monitor-logo.svg/1280px-Prtg-network-monitor-logo.svg.png?_=20180920112839" style="padding-right:10px;" />
