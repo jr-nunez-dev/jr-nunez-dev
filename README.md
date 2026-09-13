@@ -52,8 +52,8 @@ Driven by a passion for seamless operations, I’ve built my career as a NOC Eng
       <img src="https://github.com/jr-nunez-dev/testarosa/blob/main/public/Testarosa.png?raw=true" height="170" alt="Testarosa">
     </td>
     <td width="33%" align="center" valign="top">
-      <b>Infra Incident Pipeline</b><br><br>
-      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-realWorld/blob/main/Infrastructure%20Incident%20Management%20Pipeline/realWorld-Infra.png" height="170" alt="Infra Incident Pipeline">
+      <b>AI Lead Gen & Enrichment</b><br><br>
+      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Business%20Ai%20Agents/Sales%20%26%20CRM/AI%20Lead%20Gen%20%26%20Enrichment/AI%20Lead%20Gen%20%26%20Enrichment.png" height="170" alt="Infra Incident Pipeline">
     </td>
   </tr>
 </table>
