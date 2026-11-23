@@ -176,7 +176,7 @@
 <p>
   Have a process that eats your team's hours? Email me at
   <a href="mailto:johnrex.nunez5301@gmail.com">johnrex.nunez5301@gmail.com</a>, or book a call through my
-  <a href="https://www.testarosa.jr-automate.tech">portfolio</a>, where you can also chat with Testarosa,
+  <a href="https://www.testarosa.jr-automate.tech/">portfolio</a>, where you can also chat with Testarosa,
   the AI assistant I built to answer questions about my work.
 </p>
 
