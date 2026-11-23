@@ -31,7 +31,6 @@
   full time.
 </p>
 
----
 
 ## 🏄‍♂️ What I Do
 
@@ -43,7 +42,6 @@
   <li><b>Front-end development</b>: React and Vite, including the portfolio site linked above.</li>
 </ul>
 
----
 
 ## 💪 Skills
 
@@ -66,7 +64,6 @@
   <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="40" alt="Supabase" title="Supabase">
 </p>
 
----
 
 ## 🏆 Featured Workflows
 
@@ -139,8 +136,6 @@
   </tr>
 </table>
 
-
----
 
 ## ⛵ John's Journey
 
