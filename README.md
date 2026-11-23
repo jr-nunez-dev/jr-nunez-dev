@@ -1,4 +1,4 @@
-<h1>Johnrex Chris Gerard Nuñez</h1>
+#  👾 Johnrex Chris Gerard Nuñez
 
 `AI Automation Developer | NOC Engineer`
 
@@ -16,7 +16,7 @@
 
 <br>
 
-<h2>About</h2>
+## 📁 About
 
 <p>
   I'm a NOC Engineer who got tired of doing the same alert-to-ticket routine by hand, so I started building the
@@ -31,7 +31,9 @@
   full time.
 </p>
 
-<h2>What I Do</h2>
+---
+
+## 🏄‍♂️ What I Do
 
 <ul>
   <li><b>n8n workflow automation</b>: business process automation, API integrations, data syncs and operational workflows.</li>
@@ -41,7 +43,9 @@
   <li><b>Front-end development</b>: React and Vite, including the portfolio site linked above.</li>
 </ul>
 
-<h2>Skills</h2>
+---
+
+## 💪 Skills
 
 <p>
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;
@@ -62,7 +66,9 @@
   <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="40" alt="Supabase" title="Supabase">
 </p>
 
-<h2>Featured Workflows</h2>
+---
+
+## 🏆 Featured Workflows
 
 <p>
   A selection from my two public workflow repositories:
@@ -133,19 +139,39 @@
   </tr>
 </table>
 
-<h2>Experience</h2>
 
-<ul>
-  <li><b>NOC Engineer / n8n Automation Developer</b>, Universal Access and Systems Solutions (April 2025 to present)</li>
-  <li><b>Technical Support Engineer / Project Engineer</b>, Integrated Computer Systems, Inc. (August 2024 to April 2025)</li>
-  <li><b>IT Technical Support Intern</b>, Concentrix CVG PH (February to May 2024)</li>
-</ul>
+---
 
-<h2>Education</h2>
+## ⛵ John's Journey
 
-<p>B.S. in Information Technology, Mindoro State University (graduated June 2024). Dean's Lister.</p>
+```text
+2025 ─────── Present
+             │
+             ├── 🏢 Universal Access and Systems Solutions
+             │   ├─ NOC Engineer | N8N Developer
+             │   ├─ Built enterprise n8n workflows
+             │   ├─ L1 Infrastracture Support
+             │   └─ Developed AI agents & integrations
+             │
+2024 ─────── 2025
+             │
+             ├── 🏢 Integrated Computer Systems
+             │   ├─ Project Engineer
+             │   ├─ Technical Support Engineer
+             │   ├─ L2 Support
+             │   └─ Asset handling and inventory
+             │
+2024 ─────── 2024
+             │
+             ├── 🏢 Concentrix PH
+             │   ├─ IT Intern
+             │   ├─ L1 Support
+             │   └─ Customer Services
+```
 
-<h2>Get in Touch</h2>
+---
+
+## 📧 Get in Touch
 
 <p>
   Have a process that eats your team's hours? Email me at
@@ -153,3 +179,27 @@
   <a href="https://www.testarosa.jr-automate.tech">portfolio</a>, where you can also chat with Testarosa,
   the AI assistant I built to answer questions about my work.
 </p>
+
+
+<details>
+<summary><b>List of Interests</b></summary>
+<br>
+
+#### 🤖 AI Automation
+- Building enterprise-grade **n8n** workflows
+- Creating multi-agent AI systems
+- Expanding my automation portfolio
+- Learning advanced MCP integrations
+- Exploring AI orchestration patterns
+
+#### 📚 Currently Learning
+- JavaScript
+- Make.com
+- Linux
+- Activepieces
+
+#### 🎯 2026 Goals
+- 🚀 Publish 50+ automation workflows
+- 🎓 Earn AI certifications
+
+</details>
