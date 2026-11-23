@@ -59,16 +59,9 @@
   </picture>
   <img align="left" alt="Docker" width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Supabase" width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="Google Workspace" width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Claude AI" width="30px" hspace="6" src="https://cdn.simpleicons.org/claude/D97757" style="padding-right:10px;" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openai/ffffff">
-    <img align="left" alt="ChatGPT" width="30px" hspace="6" src="https://cdn.simpleicons.org/openai/000000" style="padding-right:10px;" />
-  </picture>
-  <img align="left" alt="Gemini" width="30px" hspace="6" src="https://cdn.simpleicons.org/googlegemini/8E75B2" style="padding-right:10px;" />
   <img align="left" alt="Linux" width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Postman" width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="CLI" width="30px" hspace="6" src="https://cdn.simpleicons.org/gnubash/4EAA25" style="padding-right:10px;" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
     <img align="left" alt="GitHub" width="30px" hspace="6" src="https://cdn.simpleicons.org/github/181717" style="padding-right:10px;" />
