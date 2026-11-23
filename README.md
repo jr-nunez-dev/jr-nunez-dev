@@ -67,7 +67,6 @@
     <img alt="GitHub" width="30" height="30" hspace="6" src="https://cdn.simpleicons.org/github/181717" />
   </picture>
 </p>
-<br clear="left">
 
 ## 🏆 Featured Workflows
 
