@@ -31,6 +31,7 @@
   full time.
 </p>
 
+<br>
 
 ## 🏄‍♂️ What I Do
 
@@ -65,6 +66,7 @@
   <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="40" alt="Supabase" title="Supabase">
 </p>
 
+<br>
 
 ## 🏆 Featured Workflows
 
@@ -137,6 +139,7 @@
   </tr>
 </table>
 
+<br>
 
 ## ⛵ John's Journey
 
@@ -165,7 +168,7 @@
              │   └─ Customer Services
 ```
 
----
+<br>
 
 ## 📧 Get in Touch
 
@@ -176,6 +179,7 @@
   the AI assistant I built to answer questions about my work.
 </p>
 
+<br>
 
 <details>
 <summary><b>List of Interests</b></summary>
