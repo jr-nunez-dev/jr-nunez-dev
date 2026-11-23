@@ -42,32 +42,31 @@
 ## 💪 Skills
 
 <p>
-  <img align="left" alt="JavaScript" width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+  <img alt="JavaScript" width="30" height="30" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/json/ffffff">
-    <img align="left" alt="JSON" width="30px" hspace="6" src="https://cdn.simpleicons.org/json/000000" style="padding-right:10px;" />
+    <img alt="JSON" width="30" height="30" hspace="6" src="https://cdn.simpleicons.org/json/000000" />
   </picture>
-  <img align="left" alt="React" width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="HTML 5" width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="VSCode" width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="n8n Automation" width="30px" hspace="6" src="https://cdn.simpleicons.org/n8n/EA4B71" style="padding-right:10px;" />
-  <img align="left" alt="Jira Automation" width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="Make" width="30px" hspace="6" src="https://cdn.simpleicons.org/make/8626D5" style="padding-right:10px;" />
+  <img alt="React" width="30" height="30" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="HTML 5" width="30" height="30" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="VSCode" width="30" height="30" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img alt="n8n Automation" width="30" height="30" hspace="6" src="https://cdn.simpleicons.org/n8n/EA4B71" />
+  <img alt="Jira Automation" width="30" height="30" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+  <img alt="Make" width="30" height="30" hspace="6" src="https://cdn.simpleicons.org/make/8626D5" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hermes-agent-alt-light.svg">
-    <img align="left" alt="Hermes Agent" width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hermes-agent-alt.svg" style="padding-right:10px;" />
+    <img alt="Hermes Agent" width="30" height="30" hspace="6" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hermes-agent-alt.svg" />
   </picture>
-  <img align="left" alt="Docker" width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="Supabase" width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="Claude AI" width="30px" hspace="6" src="https://cdn.simpleicons.org/claude/D97757" style="padding-right:10px;" />
-  <img align="left" alt="Linux" width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="Postman" width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="padding-right:10px;" />
+  <img alt="Docker" width="30" height="30" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img alt="Supabase" width="30" height="30" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+  <img alt="Claude AI" width="30" height="30" hspace="6" src="https://cdn.simpleicons.org/claude/D97757" />
+  <img alt="Linux" width="30" height="30" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img alt="Postman" width="30" height="30" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
-    <img align="left" alt="GitHub" width="30px" hspace="6" src="https://cdn.simpleicons.org/github/181717" style="padding-right:10px;" />
+    <img alt="GitHub" width="30" height="30" hspace="6" src="https://cdn.simpleicons.org/github/181717" />
   </picture>
 </p>
-
 <br clear="left">
 
 ## 🏆 Featured Workflows
