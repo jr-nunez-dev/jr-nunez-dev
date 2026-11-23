@@ -125,10 +125,10 @@
       <br><b>INFRA Issue Automation</b>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/jr-nunez-dev/n8n-automation-workflows-pipelines/blob/main/Collaboration%20%26%20Productivity/Google%20Sheets%20%E2%86%94%20Airtable%20Two-Way%20Sync/Google%20Sheets%20%E2%86%94%20Airtable%20Two-Way%20Sync.png">
-        <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Playground/AI%20Incident%20Analyzer/AI%20Incident%20Analyzer.png alt="AI Incident Analyzer" width="100%">
+      <a href="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Playground/AI%20Incident%20Analyzer/AI%20Incident%20Analyzer.png">
+        <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Playground/AI%20Incident%20Analyzer/AI%20Incident%20Analyzer.png" alt="AI Incident Analyzer" width="100%">
       </a>
-      <br><b>2-Way Sync</b>
+      <br><b>AI Incident Analyzer</b>
     </td>
   </tr>
 </table>
