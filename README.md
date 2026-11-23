@@ -42,6 +42,7 @@
   <li><b>Front-end development</b>: React and Vite, including the portfolio site linked above.</li>
 </ul>
 
+<br>
 
 ## 💪 Skills
 
