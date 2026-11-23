@@ -1,13 +1,13 @@
-<h1 align="center">Johnrex Nuñez</h1>
+<h1>Johnrex Chris Gerard Nuñez</h1>
 
-<h3 align="center">AI Automation Developer | NOC Engineer</h3>
+`AI Automation Developer | NOC Engineer`
 
-<p align="center">
+<p>
   I build n8n workflows and AI agents that take repetitive operations work off people's plates.<br>
   Based in Pasig City, Philippines. Open to opportunities.
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.testarosa.jr-automate.tech">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/johnrex-chris-gerard-nu%C3%B1ez-901932309">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:johnrex.nunez5301@gmail.com">Email</a> &nbsp;·&nbsp;
