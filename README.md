@@ -1,121 +1,155 @@
-# 👾 Johnrex Chris Gerard Nuñez
+<h1 align="center">Johnrex Nuñez</h1>
 
-**`NOC Engineer | N8N Automation Developer`**
+<h3 align="center">AI Automation Developer | NOC Engineer</h3>
 
-Driven by a passion for seamless operations, I’ve built my career as a NOC Engineer providing essential L1 hands-on support for infrastructure teams by continuously monitoring critical systems and network devices. To elevate operational efficiency, I leverage n8n to build custom automation pipelines that eliminate the repetitive alerts and manual tasks burdening daily workflows. I bring a unique combination of proactive real-time monitoring and workflow automation to help your organization minimize downtime, optimize incident response, and keep critical operations running smoothly.
+<p align="center">
+  I build n8n workflows and AI agents that take repetitive operations work off people's plates.<br>
+  Based in Pasig City, Philippines. Open to opportunities.
+</p>
 
----
-### 🤖 Languages & Tools
+<p align="center">
+  <a href="https://www.testarosa.jr-automate.tech">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/johnrex-chris-gerard-nu%C3%B1ez-901932309">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:johnrex.nunez5301@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://jr-automate-dev.vercel.app/">jr-automate.dev</a>
+</p>
 
-<img align="left" alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JSON" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right:10px;" />  
-<img align="left" alt="N8N" width="30px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/n8n.webp" style="padding-right:10px;" />
-<img align="left" alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Google Cloud" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Airtable" width="30px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/airtable-72how81antkvqw63bfjdw.png/airtable-n3ug85b9mrgaljvqjlx50d.png?_a=DATAiZAAZAA0" style="padding-right:10px;" />
-<img align="left" alt="Supabase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PRTG" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Prtg-network-monitor-logo.svg/1280px-Prtg-network-monitor-logo.svg.png?_=20180920112839" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <br>
 
+<h2>About</h2>
 
----
-### 🚀 Highlight Workflows
+<p>
+  I'm a NOC Engineer who got tired of doing the same alert-to-ticket routine by hand, so I started building the
+  automation for it. Today I work at Universal Access and Systems Solutions, stationed with a leading ISP in the
+  Philippines. I provide L1 monitoring for servers, networks, APIs and websites, and I build the n8n and AI
+  workflows that handle the repetitive alert and ticket work for the NOC team.
+</p>
+
+<p>
+  My first big build was a 10-workflow incident suite for that team: alerts become prioritized tickets, the right
+  people get notified, and every update is logged. I'm now looking for a role where I can build this kind of system
+  full time.
+</p>
+
+<h2>What I Do</h2>
+
+<ul>
+  <li><b>n8n workflow automation</b>: business process automation, API integrations, data syncs and operational workflows.</li>
+  <li><b>AI automation</b>: AI agents, classification, intelligent routing and AI-assisted decision workflows.</li>
+  <li><b>NOC and incident operations</b>: monitoring, alert triage, escalation and response automation.</li>
+  <li><b>System and API integration</b>: REST APIs, webhooks, and Jira, Slack, Gmail and Telegram integrations.</li>
+  <li><b>Front-end development</b>: React and Vite, including the portfolio site linked above.</li>
+</ul>
+
+<h2>Skills</h2>
+
+<p>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/json/ffffff">
+    <img src="https://cdn.simpleicons.org/json/000000" height="40" alt="JSON" title="JSON">
+  </picture>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" title="React">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML 5" title="HTML 5">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n Automation" title="n8n Automation">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jira/2684FF" height="40" alt="Jira Automation" title="Jira Automation">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/make/8626D5" height="40" alt="Make" title="Make">&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hermes-agent-alt-light.svg">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hermes-agent-alt.svg" height="40" alt="Hermes Agent" title="Hermes Agent">
+  </picture>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" title="Docker">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="40" alt="Supabase" title="Supabase">
+</p>
+
+<h2>Featured Workflows</h2>
+
+<p>
+  A selection from my two public workflow repositories:
+  <a href="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents">AI Agents</a> and
+  <a href="https://github.com/jr-nunez-dev/n8n-automation-workflows-pipelines">Pipelines</a>.
+</p>
 
 <table>
   <tr>
-    <td width="33%" align="center" valign="top">
-      <b>Agent Swarm</b><br><br>
-      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Advance%20Ai%20Architectures/Multi-Agent%20Systems/Personal%20Ai%20Agent/AGENTS.png" height="170" alt="Agent Swarm">
+    <td align="center" width="33%">
+      <a href="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Advance%20Ai%20Architectures/Multi-Agent%20Systems/Personal%20Ai%20Agent/AGENTS.png">
+        <img src="https://raw.githubusercontent.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/main/Advance%20Ai%20Architectures/Multi-Agent%20Systems/Personal%20Ai%20Agent/AGENTS.png" alt="Agent Swarm" width="100%">
+      </a>
+      <br><b>Agent Swarm</b>
     </td>
-    <td width="33%" align="center" valign="top">
-      <b>BANT Scorer Agent</b><br><br>
-      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Business%20Ai%20Agents/Sales%20%26%20CRM/Inbound%20Lead%20Qualifier%20%26%20BANT%20Scorer%20Agent/Inbound%20Lead%20Qualifier%20%26%20BANT%20Scorer%20Agent.png" height="170" alt="BANT Scorer Agent">
+    <td align="center" width="33%">
+      <a href="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Business%20Ai%20Agents/Sales%20%26%20CRM/Inbound%20Lead%20Qualifier%20%26%20BANT%20Scorer%20Agent/Inbound%20Lead%20Qualifier%20%26%20BANT%20Scorer%20Agent.png">
+        <img src="https://raw.githubusercontent.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/main/Business%20Ai%20Agents/Sales%20%26%20CRM/Inbound%20Lead%20Qualifier%20%26%20BANT%20Scorer%20Agent/Inbound%20Lead%20Qualifier%20%26%20BANT%20Scorer%20Agent.png" alt="Lead Qualifier and BANT Scorer" width="100%">
+      </a>
+      <br><b>Lead Qualifier &amp; BANT Scorer</b>
     </td>
-    <td width="33%" align="center" valign="top">
-      <b>Triage Agent</b><br><br>
-      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Business%20Ai%20Agents/Costumer%20Support/AI%20Customer%20Support%20Triage%20%26%20Auto-Reply%20Agent/AI%20Customer%20Support%20Triage%20%26%20Auto-Reply%20Agent.png" height="170" alt="Triage Agent">
+    <td align="center" width="33%">
+      <a href="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Business%20Ai%20Agents/Costumer%20Support/AI%20Customer%20Support%20Triage%20%26%20Auto-Reply%20Agent/AI%20Customer%20Support%20Triage%20%26%20Auto-Reply%20Agent.png">
+        <img src="https://raw.githubusercontent.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/main/Business%20Ai%20Agents/Costumer%20Support/AI%20Customer%20Support%20Triage%20%26%20Auto-Reply%20Agent/AI%20Customer%20Support%20Triage%20%26%20Auto-Reply%20Agent.png" alt="Customer Triage Agent" width="100%">
+      </a>
+      <br><b>Customer Triage Agent</b>
     </td>
   </tr>
-
   <tr>
-    <td width="33%" align="center" valign="top">
-      <b>Sentinel</b><br><br>
-      <img src="https://github.com/jr-nunez-dev/sentinel-noc/blob/main/src/assets/Sentinel.png?raw=true" height="170" alt="Sentinel">
+    <td align="center" width="33%">
+      <a href="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Playground/CSV%20Data%20Validator/CSV%20Data%20Validator.png">
+        <img src="https://raw.githubusercontent.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/main/Playground/CSV%20Data%20Validator/CSV%20Data%20Validator.png" alt="CSV Data Validator" width="100%">
+      </a>
+      <br><b>CSV Data Validator</b>
     </td>
-    <td width="33%" align="center" valign="top">
-      <b>Testarosa</b><br><br>
-      <img src="https://github.com/jr-nunez-dev/testarosa/blob/main/public/Testarosa.png?raw=true" height="170" alt="Testarosa">
+    <td align="center" width="33%">
+      <a href="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Playground/Chatbot%20Web%20Scraper/Chatbot%20Web%20Scraper.png">
+        <img src="https://raw.githubusercontent.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/main/Playground/Chatbot%20Web%20Scraper/Chatbot%20Web%20Scraper.png" alt="Web Scraper Agent" width="100%">
+      </a>
+      <br><b>Web Scraper Agent</b>
     </td>
-    <td width="33%" align="center" valign="top">
-      <b>AI Lead Gen & Enrichment</b><br><br>
-      <img src="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Business%20Ai%20Agents/Sales%20%26%20CRM/AI%20Lead%20Gen%20%26%20Enrichment/AI%20Lead%20Gen%20%26%20Enrichment.png" height="170" alt="Infra Incident Pipeline">
+    <td align="center" width="33%">
+      <a href="https://github.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/blob/main/Business%20Ai%20Agents/Sales%20%26%20CRM/AI%20Lead%20Generation%20Automation/AI%20Lead%20Generation%20Automation.png">
+        <img src="https://raw.githubusercontent.com/jr-nunez-dev/n8n-automation-workflows-aiAgents/main/Business%20Ai%20Agents/Sales%20%26%20CRM/AI%20Lead%20Generation%20Automation/AI%20Lead%20Generation%20Automation.png" alt="AI Lead Gen" width="100%">
+      </a>
+      <br><b>AI Lead Gen</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/jr-nunez-dev/n8n-automation-workflows-pipelines/blob/main/Data%20Operations/Data%20Sheet%20-%20Cleanse%20-%20Database%20Loader/Data%20Sheet%20-%20Cleanse%20-%20Database%20Loader.png">
+        <img src="https://raw.githubusercontent.com/jr-nunez-dev/n8n-automation-workflows-pipelines/main/Data%20Operations/Data%20Sheet%20-%20Cleanse%20-%20Database%20Loader/Data%20Sheet%20-%20Cleanse%20-%20Database%20Loader.png" alt="Database Loader" width="100%">
+      </a>
+      <br><b>Database Loader</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/jr-nunez-dev/n8n-automation-workflows-pipelines/blob/main/IT%20Operations/%5BINFRA%5D%20Intermittent%20%26%20Slow%20Connection%20Issue%20Automation/%5BINFRA%5D%20Intermittent%20%26%20Slow%20Connection%20Issue%20Automation.png">
+        <img src="https://raw.githubusercontent.com/jr-nunez-dev/n8n-automation-workflows-pipelines/main/IT%20Operations/%5BINFRA%5D%20Intermittent%20%26%20Slow%20Connection%20Issue%20Automation/%5BINFRA%5D%20Intermittent%20%26%20Slow%20Connection%20Issue%20Automation.png" alt="INFRA Issue Automation" width="100%">
+      </a>
+      <br><b>INFRA Issue Automation</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/jr-nunez-dev/n8n-automation-workflows-pipelines/blob/main/Collaboration%20%26%20Productivity/Google%20Sheets%20%E2%86%94%20Airtable%20Two-Way%20Sync/Google%20Sheets%20%E2%86%94%20Airtable%20Two-Way%20Sync.png">
+        <img src="https://raw.githubusercontent.com/jr-nunez-dev/n8n-automation-workflows-pipelines/main/Collaboration%20%26%20Productivity/Google%20Sheets%20%E2%86%94%20Airtable%20Two-Way%20Sync/Google%20Sheets%20%E2%86%94%20Airtable%20Two-Way%20Sync.png" alt="2-Way Sync" width="100%">
+      </a>
+      <br><b>2-Way Sync</b>
     </td>
   </tr>
 </table>
 
+<h2>Experience</h2>
 
----
+<ul>
+  <li><b>NOC Engineer / n8n Automation Developer</b>, Universal Access and Systems Solutions (April 2025 to present)</li>
+  <li><b>Technical Support Engineer / Project Engineer</b>, Integrated Computer Systems, Inc. (August 2024 to April 2025)</li>
+  <li><b>IT Technical Support Intern</b>, Concentrix CVG PH (February to May 2024)</li>
+</ul>
 
-### ⛵ John's Journey
+<h2>Education</h2>
 
-```text
-2025 ─────── Present
-             │
-             ├── 🏢 Universal Access and Systems Solutions
-             │   ├─ NOC Engineer | N8N Developer
-             │   ├─ Built enterprise n8n workflows
-             │   ├─ L1 Infrastracture Support
-             │   └─ Developed AI agents & integrations
-             │
-2024 ─────── 2025
-             │
-             ├── 🏢 Integrated Computer Systems
-             │   ├─ Project Engineer
-             │   ├─ Technical Support Engineer
-             │   ├─ L2 Support
-             │   └─ Asset handling and inventory
-             │
-2024 ─────── 2024
-             │
-             ├── 🏢 Concentrix PH
-             │   ├─ IT Intern
-             │   ├─ L1 Support
-             │   └─ Customer Services
-```
+<p>B.S. in Information Technology, Mindoro State University (graduated June 2024). Dean's Lister.</p>
 
----
-### ⭐ GitHub Stats
+<h2>Get in Touch</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jr-nunez-dev&theme=tokyonight&hide_border=true" />
-</p>   
-
----
-
-<details>
-<summary><b>List of Interests</b></summary>
-<br>
-
-#### 🤖 AI Automation
-- Building enterprise-grade **n8n** workflows
-- Creating multi-agent AI systems
-- Expanding my automation portfolio
-- Learning advanced MCP integrations
-- Exploring AI orchestration patterns
-
-#### 📚 Currently Learning
-- JavaScript
-- Python
-- Linux
-- Activepieces
-
-#### 🎯 2026 Goals
-- 🚀 Publish 50+ automation workflows
-- 🎓 Earn AI certifications
-
-</details>
+<p>
+  Have a process that eats your team's hours? Email me at
+  <a href="mailto:johnrex.nunez5301@gmail.com">johnrex.nunez5301@gmail.com</a>, or book a call through my
+  <a href="https://www.testarosa.jr-automate.tech">portfolio</a>, where you can also chat with Testarosa,
+  the AI assistant I built to answer questions about my work.
+</p>
